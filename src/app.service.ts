@@ -16,7 +16,7 @@ export class AppService {
     puppeteer.use(StealthPlugin());
     const browser = await puppeteer.launch({
       headless: false,
-      executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+      executablePath: this.configService.get("PUPEETER_EXECUTABLE_PATH"),
       userDataDir: this.configService.get("USER_DATA_DIRECTORY"),
     });
     try {

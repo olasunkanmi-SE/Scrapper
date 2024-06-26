@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "Alex Kladov",
+    "userName": "matklad",
+    "bio": "Computers, democracy, and nervous disorder.",
+    "followerCount": "4.6k",
+    "followingCount": "1",
+    "personalWebsite": "https://matklad.github.io/"
+  }
+]

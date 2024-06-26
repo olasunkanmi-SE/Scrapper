@@ -1,6 +1,7 @@
 node_modules
-Users/olasunkanmioyinlola/Library/Application Support/Google/Chrome/Default/*
+Users/*
 *.jpg
 *.png
 *.pdf
 dist/*
+.env

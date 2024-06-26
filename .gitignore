@@ -1,0 +1,6 @@
+node_modules
+Users/olasunkanmioyinlola/Library/Application Support/Google/Chrome/Default/*
+*.jpg
+*.png
+*.pdf
+dist/*
